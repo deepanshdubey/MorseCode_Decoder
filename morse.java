@@ -1,6 +1,6 @@
-//Author : Deepansh Dubey.
-//Date   : 7/7/2020.
-//Purpose: Decoding the morse code.
+//Author  : Deepansh Dubey.
+//Date    : 7/7/2020.
+//Purpose : Decoding the International Morse Code.
 
 import java.io.*;
 class morse
