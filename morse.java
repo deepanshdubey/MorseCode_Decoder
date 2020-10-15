@@ -124,7 +124,7 @@ class morse
         BufferedReader br=new BufferedReader (new InputStreamReader(System.in));
         String s;
         System.out.println("\nRules for entering the MORSE CODE CHARACTER.\n");
-        System.out.println(" --> Press '-' for dash. \n --> Press '.' for dot. \n --> No space should be entered betwwen the units of letter.");
+        System.out.println(" --> Press '-' for dash. \n --> Press '.' for dot. \n --> No space should be entered between the units of letter.");
 
 
         while(true)
