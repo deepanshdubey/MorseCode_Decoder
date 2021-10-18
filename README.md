@@ -5,8 +5,6 @@ It can decode morse code given in the below format.
 
 '.' for dot.
 
-No space should be entered between the units of letter.
-
 ###Alphabet:
 
 | Letter | MorseCode |
